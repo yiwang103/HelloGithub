@@ -1,1 +1,10 @@
+include <stdio.h>
+
+int main(){
+ 
+  printf("This is my first Github file, hello word");
+  return 0;
+
+}
+
 
